@@ -1,0 +1,32 @@
+{
+  "name": "cctx-rate-arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test":"jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "ccxt": "^1.72.85",
+    "config": "^1.28.1",
+    "crypto-js": "^3.1.9-1",
+    "json-bigint": "^0.3.0",
+    "log4js": "^6.3.0",
+    "mongoose": "^5.12.11",
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2",
+    "ws": "^3.2.0"
+  },
+  "execMap": {
+    "js": "node –harmony"
+  },
+  "devDependencies": {
+    "https-proxy-agent": "^5.0.0",
+    "jest": "^27.5.1",
+    "moment": "^2.29.1"
+  }
+}

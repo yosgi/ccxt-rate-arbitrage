@@ -1,0 +1,10 @@
+{
+    "account":{
+        "apiKey": "nJwMZ07LjV03b13uUS",
+        "secret": "PWyGhyqXN59Fn1zIRKNWQef4r0oBB5jP9YqW",
+        "timeout": 5000,
+        "enableRateLimit": true
+    },
+    "proxy":"http://127.0.0.1:33210"
+    
+}
